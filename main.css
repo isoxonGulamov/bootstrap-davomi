@@ -1,0 +1,11 @@
+.text-white{
+  padding: 15px 150px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
